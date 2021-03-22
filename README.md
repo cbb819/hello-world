@@ -1,2 +1,3 @@
 # hello-world
-My first repository.
+My name is Jamie.
+This is my first repository.
